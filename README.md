@@ -16,7 +16,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ---
 
-## 📂 ¿Qué encontrarás en mis repositorios?
+*   **[📄 Contrato NDA para Auditorías Cisco](./NDA-Cisco-Audit.md)**: Mi primer modelo contractual adaptado a la infraestructura de red.
 
 *   **`legal-as-code`**: Plantillas de contratos (NDAs, TyC) estructuradas en Markdown para desarrolladores.
 *   **`cybersecurity-compliance`**: Guías de cumplimiento normativo (ISO 27001, regulaciones locales de datos).
