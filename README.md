@@ -19,7 +19,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 *   **[📄 Contrato NDA para Auditorías Cisco](./NDA-Cisco-Audit.md)**: Mi primer modelo contractual adaptado a la infraestructura de red.
 
 *   **`legal-as-code`**: Plantillas de contratos (NDAs, TyC) estructuradas en Markdown para desarrolladores.
-*   **`cybersecurity-compliance`**: Guías de cumplimiento normativo (ISO 27001, regulaciones locales de datos).
+*   **[📋 Checklist de Cumplimiento ISO 27001](./ISO27001-Compliance-Checklist.md)**: Matriz interactiva de control para auditorías que une la gobernanza jurídica con la seguridad en redes.
 *   **[🛠️ Guía de Hardening para Routers Cisco](./Cisco-Hardening-Guide.md)**: Configuración de seguridad técnica y bases legales para banners de acceso (MOTD).
 *   **`incident-response-templates`**: Protocolos legales y técnicos de actuación ante brechas de seguridad.
 
