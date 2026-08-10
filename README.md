@@ -20,7 +20,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 *   **`legal-as-code`**: Plantillas de contratos (NDAs, TyC) estructuradas en Markdown para desarrolladores.
 *   **`cybersecurity-compliance`**: Guías de cumplimiento normativo (ISO 27001, regulaciones locales de datos).
-*   **`cisco-security-baselines`**: Documentación y guías de endurecimiento (hardening) para entornos Cisco.
+*   **[🛠️ Guía de Hardening para Routers Cisco](./Cisco-Hardening-Guide.md)**: Configuración de seguridad técnica y bases legales para banners de acceso (MOTD).
 *   **`incident-response-templates`**: Protocolos legales y técnicos de actuación ante brechas de seguridad.
 
 ---
