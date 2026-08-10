@@ -3,7 +3,7 @@
 
 ### ⚖️ Abogado Digital | 🛡️ Analista de Ciberseguridad Cisco | Partner Hyperium IA (Chile)|Partner Laincrim (Chile) 
 
-Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de datos** y la **Seguridad de la información**. Mi objetivo es cerrar la brecha entre los requisitos legales complejos y la implementación técnica de ciberseguridad.
+Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de datos** y la **Ciberseguridad**. Mi objetivo es cerrar la brecha entre los requisitos legales complejos y la implementación técnica de ciberseguridad.
 
 ---
 
