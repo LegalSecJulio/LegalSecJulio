@@ -21,9 +21,9 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ## 🛡️ Proyectos destacados y Ecosistemas.
 
-*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense *On-Chain* y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
-    *   📜 **Smart Contract (Escrow Binacional):** [`contracts/TrinationalLegalEscrow.sol`](./contracts/TrinationalLegalEscrow.sol)
-    *   📜 **Smart Contract (Cadena de Custodia):** [`contracts/ForensicChainOfCustody.sol`](./contracts/ForensicChainOfCustody.sol)
+*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
+    *   📜 **Smart Contract (Escrow binacional):** [`contracts/TrinationalLegalEscrow.sol`](./contracts/TrinationalLegalEscrow.sol)
+    *   📜 **Smart Contract (Cadena de custodia):** [`contracts/ForensicChainOfCustody.sol`](./contracts/ForensicChainOfCustody.sol)
     *   🐍 **Automatización CLI (Python / Polygon):** [`scripts/forensic_notary.py`](./scripts/forensic_notary.py)
 
 ---
@@ -40,7 +40,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ## 🛠️ Herramientas y Conocimientos
 
-- **Legal:** Privacidad por Diseño (PbD), Protección de Datos, Propiedad Intelectual de Software, Arbitraje Transfronterizo y Cadenas de Custodia.
+- **Legal:** Privacidad por diseño (PbD), Protección de datos, Propiedad intelectual de software, Arbitraje transfronterizo y Cadenas de custodia.
 - **Técnico:** Python, Linux (Terminal-first), Hardening de Redes, Smart Contracts (Solidity/Polygon) e Investigación Forense Digital.
 
 ---
