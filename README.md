@@ -20,7 +20,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ---
 
-## 🛡️ Proyectos Destacados y Ecosistemas
+## 🛡️ Proyectos destacados y Ecosistemas.
 
 *   ⛓️ **[Aegis Forensic Grid (Protocolo Binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense *On-Chain* y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y mismidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
 
