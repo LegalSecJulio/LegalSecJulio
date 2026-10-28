@@ -9,7 +9,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ## 🚀 Sobre mí
 
-- 💼 Actualmente trabajo en: **CEO Boutique Cyber Law CDMX**
+- 💼 Actualmente trabajo como: **Director de Boutique Cyber Law CDMX**
 
 - 🎓 Especialización: **Derecho Digital, Cumplimiento (Compliance), InfoSec y Forense Digital**
 
@@ -17,12 +17,14 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 - 🌱 Actualmente aprendiendo: **Regulaciones de Inteligencia Artificial / DevSecOps / Arquitectura Web3 Legal-Tech**
 
-
 ---
 
 ## 🛡️ Proyectos destacados y Ecosistemas.
 
-*   ⛓️ **[Aegis Forensic Grid (Protocolo Binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense *On-Chain* y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y mismidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
+*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense *On-Chain* y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
+    *   📜 **Smart Contract (Escrow Binacional):** [`contracts/TrinationalLegalEscrow.sol`](./contracts/TrinationalLegalEscrow.sol)
+    *   📜 **Smart Contract (Cadena de Custodia):** [`contracts/ForensicChainOfCustody.sol`](./contracts/ForensicChainOfCustody.sol)
+    *   🐍 **Automatización CLI (Python / Polygon):** [`scripts/forensic_notary.py`](./scripts/forensic_notary.py)
 
 ---
 
@@ -40,7 +42,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 - **Legal:** Privacidad por Diseño (PbD), Protección de Datos, Propiedad Intelectual de Software, Arbitraje Transfronterizo y Cadenas de Custodia.
 - **Técnico:** Python, Linux (Terminal-first), Hardening de Redes, Smart Contracts (Solidity/Polygon) e Investigación Forense Digital.
-  
+
 ---
 
 ## 📫 Cómo contactarme
