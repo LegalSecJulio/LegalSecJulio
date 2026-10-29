@@ -21,10 +21,18 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ## 🛡️ Proyectos destacados y Ecosistemas.
 
-*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
+*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de n## 🧪 Laboratorio Técnico y Sandbox (Learning Lab)otarización forense y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
     *   📜 **Smart Contract (Escrow binacional):** [`contracts/TrinationalLegalEscrow.sol`](./contracts/TrinationalLegalEscrow.sol)
     *   📜 **Smart Contract (Cadena de custodia):** [`contracts/ForensicChainOfCustody.sol`](./contracts/ForensicChainOfCustody.sol)
     *   🐍 **Automatización CLI (Python / Polygon):** [`scripts/forensic_notary.py`](./scripts/forensic_notary.py)
+
+---
+
+## 🧪 Laboratorio Técnico y Sandbox (Learning Lab)
+
+> Espacio de experimentación activa, desarrollo de software y automatización de procesos orientados a la ciberseguridad.
+
+*   🐍 **[`scripts/`](./scripts/)**: Herramientas en desarrollo y automatizaciones periciales en Python para soporte a flujos técnico-legales.
 
 ---
 
