@@ -1,7 +1,7 @@
 # Boutique Cyber Law CDMX
 # ¡Hola! Soy Julio César Olvera A. 👋
 
-### ⚖️ Abogado Digital | 🛡️ Analista de Ciberseguridad Cisco | Partner Hyperium IA (Chile) | Partner LAINCRIM (Chile) 
+### ⚖️ Abogado Digital | 🛡️ Analista de Ciberseguridad Cisco | Partner Hyperium IA (Chile) | Partner LAINCRIM (Chile)
 
 Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de datos** y la **Seguridad de la información**. Mi objetivo es cerrar la brecha entre los requisitos legales complejos y la implementación técnica de ciberseguridad.
 
@@ -10,25 +10,22 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 ## 🚀 Sobre mí
 
 - 💼 Actualmente trabajo como: **Director de Boutique Cyber Law CDMX**
-
 - 🎓 Especialización: **Derecho Digital, Cumplimiento (Compliance), InfoSec y Forense Digital**
-
 - ⚙️ Certificaciones clave: **Ethical Hacker / Analista de Ciberseguridad / Cisco / CyberOps / Cédula Profesional**
-
 - 🌱 Actualmente aprendiendo: **Regulaciones de Inteligencia Artificial / DevSecOps / Arquitectura Web3 Legal-Tech**
 
 ---
 
 ## 🛡️ Proyectos destacados y Ecosistemas.
 
-*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de n## 🧪 Laboratorio Técnico y Sandbox (Learning Lab)otarización forense y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
+*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
     *   📜 **Smart Contract (Escrow binacional):** [`contracts/TrinationalLegalEscrow.sol`](./contracts/TrinationalLegalEscrow.sol)
     *   📜 **Smart Contract (Cadena de custodia):** [`contracts/ForensicChainOfCustody.sol`](./contracts/ForensicChainOfCustody.sol)
     *   🐍 **Automatización CLI (Python / Polygon):** [`scripts/forensic_notary.py`](./scripts/forensic_notary.py)
 
 ---
 
-## 🧪 Laboratorio Técnico y Sandbox (Learning Lab)
+## 🧪 Laboratorio técnico y Sandbox (Learning Lab)
 
 > Espacio de experimentación activa, desarrollo de software y automatización de procesos orientados a la ciberseguridad.
 
@@ -38,10 +35,10 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ## 📂 Recursos y Legal-as-Code
 
-*   **[📄 Contrato NDA para Auditorías Cisco](./NDA-Cisco-Audit.md)**: Mi primer modelo contractual adaptado a la infraestructura de red.
+*   📄 **[Contrato NDA para Auditorías Cisco](./NDA-Cisco-Audit.md)**: Mi primer modelo contractual adaptado a la infraestructura de red.
 *   **`legal-as-code`**: Plantillas de contratos (NDAs, TyC) estructuradas en Markdown para desarrolladores.
-*   **[📋 Checklist de Cumplimiento ISO 27001](./ISO27001-Compliance-Checklist.md)**: Matriz interactiva de control para auditorías que une la gobernanza jurídica con la seguridad en redes.
-*   **[🛠️ Guía de Hardening para Routers Cisco](./Cisco-Hardening-Guide.md)**: Configuración de seguridad técnica y bases legales para banners de acceso (MOTD).
+*   📋 **[Checklist de Cumplimiento ISO 27001](./ISO27001-Compliance-Checklist.md)**: Matriz interactiva de control para auditorías que une la gobernanza jurídica con la seguridad en redes.
+*   🛠️ **[Guía de Hardening para Routers Cisco](./Cisco-Hardening-Guide.md)**: Configuración de seguridad técnica y bases legales para banners de acceso (MOTD).
 *   **`incident-response-templates`**: Protocolos legales y técnicos de actuación ante brechas de seguridad.
 
 ---
@@ -58,4 +55,3 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 - 💼 **LinkedIn:** www.linkedin.com/in/olvera-cyberlaw
 - 📧 **Correo Profesional:** En proceso...
 - 🌐 **Web:** https://www.hyperiumia.com/
-
