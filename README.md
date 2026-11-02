@@ -1,7 +1,7 @@
 # Boutique Cyber Law CDMX
 # ¡Hola! Soy Julio César Olvera A. 👋
 
-### ⚖️ Abogado Digital | 🛡️ Analista de Ciberseguridad Cisco | Partner Hyperium IA (Chile) | Partner LAINCRIM (Chile)
+### ⚖️ Abogado Digital | 🛡️ Analista de Ciberseguridad Cisco | Partner (Chile)
 
 Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de datos** y la **Seguridad de la información**. Mi objetivo es cerrar la brecha entre los requisitos legales complejos y la implementación técnica de ciberseguridad.
 
@@ -18,7 +18,7 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 ## 🛡️ Proyectos destacados y Ecosistemas.
 
-*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense y arbitraje digital transfronterizo en alianza con LAINCRIM e Hyperium IA. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
+*   ⛓️ **[Aegis Forensic Grid (Protocolo binacional MX - CL)](./aegis-forensic-grid.md)**: Protocolo descentralizado de notarización forense y arbitraje digital transfronterizo en alianza. Garantiza la cadena de custodia y autenticidad probatoria bajo el *CNPCyF* (México) y la *Ley N° 19.799* (Chile).
     *   📜 **Smart Contract (Escrow binacional):** [`contracts/TrinationalLegalEscrow.sol`](./contracts/TrinationalLegalEscrow.sol)
     *   📜 **Smart Contract (Cadena de custodia):** [`contracts/ForensicChainOfCustody.sol`](./contracts/ForensicChainOfCustody.sol)
     *   🐍 **Automatización CLI (Python / Polygon):** [`scripts/forensic_notary.py`](./scripts/forensic_notary.py)
@@ -54,4 +54,4 @@ Me apasiona la intersección entre el **Derecho Digital**, la **Gobernanza de da
 
 - 💼 **LinkedIn:** www.linkedin.com/in/olvera-cyberlaw
 - 📧 **Correo Profesional:** En proceso...
-- 🌐 **Web:** https://www.hyperiumia.com/
+- 🌐 **Web:** En proceso...
