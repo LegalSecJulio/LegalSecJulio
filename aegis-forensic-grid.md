@@ -47,4 +47,3 @@ El protocolo opera bajo un mecanismo de consenso de **Prueba de Autoridad (Proof
 Este proyecto se distribuye bajo la **Licencia MIT**.
 
 * **Boutique Cyber Law CDMX** — *Líder en Legal-Tech y Defensa Digital* (Dir. Lic. Julio César Olvera A.)
-* **Hyperium IA / LAINCRIM** — *Líder en Ingeniería Forense y Arquitectura de IA* (CEO Patricio Tirado)
