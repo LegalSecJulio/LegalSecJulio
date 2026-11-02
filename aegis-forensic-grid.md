@@ -6,7 +6,7 @@
 
 ## 📌 Resumen Ejecutivo
 
-**Aegis Forensic Grid** es un protocolo de Ciberseguridad y *Legal-Tech* de nivel empresarial diseñado para establecer un puente inmutable y transfronterizo entre **México (CDMX)** y **Chile (Valparaíso/Santiago)**.
+**Aegis Forensic Grid** es un protocolo de Ciberseguridad y *Legal-Tech* de nivel empresarial diseñado para establecer un puente inmutable y transfronterizo entre **México (CDMX)** y **Chile**.
 
 El marco integra la notarización criptográfica de evidencias (*Proof-of-Authority*), contratos inteligentes de custodia (*escrow*) automatizados y una capa de gobernanza jurídica binacional. Su objetivo es garantizar la **integridad, la cadena de custodia y la inalterabilidad** de la evidencia digital presentada ante tribunales, proveyendo al mismo tiempo un entorno seguro de pagos para la prestación de servicios periciales y técnico-forenses.
 
@@ -17,7 +17,7 @@ El marco integra la notarización criptográfica de evidencias (*Proof-of-Author
 El protocolo opera bajo un mecanismo de consenso de **Prueba de Autoridad (Proof-of-Authority - PoA)** conformado por dos nodos de validación pericial independientes:
 
 * **Nodo México (Boutique Cyber Law CDMX):** Valida la metadatuación jurídica, criterios de cumplimiento, protección de datos personales (LFPDPPP) y asegura que la evidencia cumpla con los estándares procesales del *Código Nacional de Procedimientos Civiles y Familiares (CNPCyF)* y la norma NMX-I-151-NYCE.
-* **Nodo Chile (Hyperium IA / LAINCRIM):** Ejecuta la extracción técnico-forense (`.E01`, `.DD`, extracciones móviles), el cálculo de huellas de integridad (`SHA-256`) y la verificación de firma electrónica avanzada bajo la *Ley N° 19.799 de Chile*.
+* **Nodo Chile:** Ejecuta la extracción técnico-forense (`.E01`, `.DD`, extracciones móviles), el cálculo de huellas de integridad (`SHA-256`) y la verificación de firma electrónica avanzada bajo la *Ley N° 19.799 de Chile*.
 
 ---
 
@@ -38,7 +38,7 @@ El protocolo opera bajo un mecanismo de consenso de **Prueba de Autoridad (Proof
 | Jurisdicción | Marco normativo / Ley aplicable | Valor aportado por Aegis Grid |
 | :--- | :--- | :--- |
 | **México 🇲🇽** | **CNPCyF** (Art. 268-275) y **Código de Comercio** (Art. 89) | Garantiza la **Autenticidad e Integridad** mediante *hashes* SHA-256 inmutables notarizados en cadena conforme a los lineamientos de la NMX-I-151-NYCE. |
-| **Chile 🇨🇱** | **Ley N° 19.799** sobre Documentos Electrónicos y Firma | Otorga equivalencia funcional de Instrumento Público/Privado con sellado de tiempo criptográfico respaldado por el peritaje técnico de LAINCRIM. |
+| **Chile 🇨🇱** | **Ley N° 19.799** sobre Documentos Electrónicos y Firma | Otorga equivalencia funcional de Instrumento Público/Privado con sellado de tiempo criptográfico respaldado por el peritaje técnico.|
 
 ---
 
